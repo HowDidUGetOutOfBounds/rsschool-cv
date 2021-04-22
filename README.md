@@ -1,2 +1,2 @@
 # rsschool-cv
-init: Initial commit
+[Click here, man!](https://github.com/HowDidUGetOutOfBounds/rsschool-cv/blob/gh-pages/cv.md)
