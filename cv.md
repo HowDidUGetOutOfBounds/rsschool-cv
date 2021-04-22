@@ -1,6 +1,6 @@
 **Junior Developer Resume**
 
-1. Sergey Karpik
+1. **Sergey Karpik**
 2. My e-mail (serg.karpik@gmail.com)
 3. Well, my aim is find work in wich my knowledge will be used and where i will be able to enrich it.
 It's really important for me to continue learning something useful in future work.
@@ -306,4 +306,4 @@ Also I created calculator with GUI as course project.
 I'm working on learning Android Studio and have created some test applications (ex. Application to find out what kind of your temperament)
 7. General secondary education,Now studing in Minsk Radioengineering College. Was learning English in "International House". 
 8. Upper-intermediate, often use in everyday life to learn something new, to watch films, reaf sci-fi and listen to music.
-9. Well, that was my old CV, but in task was mentioned that even imaginary is ok, so i just must pay your attention on it 
+9. Well, that was my old CV, but in task was mentioned that even imaginary is ok, so i just must pay your attention on it. Now Im interested in **Java/Kotlin** Android developent.
