@@ -1,7 +1,7 @@
 **Junior Developer Resume**
 
 1. Sergey Karpik
-2. [My e-mail] (serg.karpik@gmail.com)
+2. My e-mail (serg.karpik@gmail.com)
 3. Well, my aim is find work in wich my knowledge will be used and where i will be able to enrich it.
 It's really important for me to continue learning something useful in future work.
 I'm willing to learn, communicative and energetiс. I always took part in college activities and almost all of them were appreciated. 
