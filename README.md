@@ -1,2 +1,2 @@
 # rsschool-cv
-[Open HowDidUGetOurOfBounds CV!](https://HowDidUGetOutOfBounds.github.io/rsschool-cv/)
+[Open HowDidUGetOurOfBounds CV!](https://howdidugetoutofbounds.github.io/rsschool-cv/)
