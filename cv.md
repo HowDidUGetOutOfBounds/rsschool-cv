@@ -39,3 +39,7 @@ https://github.com/HowDidUGetOutOfBounds/ShareMe
 2020 - 2022 in PSA as android developer/ QA automation 
 7. General secondary education,graduated with honors from Minsk Radioengineering College. Now I am studying at BSUIR on a correspondence form 
 8. Upper-intermediate, often use in everyday life to learn something new, to watch films, reaf sci-fi and listen to music. Also have practiced in work for creating documentation and participation on calls.
+
+9. Links to my CV as *.md and *.html pages
+https://HowDidUGetOutOfBounds.github.io/rsschool-cv/cv
+https://HowDidUGetOutOfBounds.github.io/rsschool-cv/
