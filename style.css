@@ -1,1 +1,19 @@
-docs: adding non-empty content
+header h1,
+header nav {
+  display: inline-block;
+}
+
+header {
+  text-align: justify;
+  letter-spacing: 2px;
+  height: 8em;
+  padding: 2em 10%;
+  background: #215885;
+  color: #fff;
+}
+
+
+.smallImg {
+  width: 70px;
+  height: 70px;
+}
