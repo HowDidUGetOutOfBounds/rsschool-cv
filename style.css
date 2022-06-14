@@ -19,3 +19,8 @@ h2{
   width: 70px;
   height: 70px;
 }
+
+.centerText{
+  margin-left: 10em;
+  margin-right: 10em;
+}
